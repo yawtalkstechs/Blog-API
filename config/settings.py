@@ -39,8 +39,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites',
 
-    'posts',
-
     'rest_framework',
     'rest_framework.authtoken',
     'allauth',
@@ -48,6 +46,8 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     'dj_rest_auth',
     'dj_rest_auth.registration',
+    
+    'posts',    
 ]
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
