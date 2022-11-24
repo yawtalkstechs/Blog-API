@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     'dj_rest_auth',
     'dj_rest_auth.registration',
-    'drf-spectacular',
+    'drf_spectacular',
 
     'posts',    
 ]
