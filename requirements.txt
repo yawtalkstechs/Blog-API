@@ -32,3 +32,8 @@ ruamel.yaml.clib==0.2.6
 sqlparse==0.4.2
 uritemplate==4.1.1
 urllib3==1.26.9
+drf-spectacular==0.24.2
+PyYAML==6.0
+jsonschema==4.17.1
+attrs==22.1.0
+pyrsistent==0.19.2
